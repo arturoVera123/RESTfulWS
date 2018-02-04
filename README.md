@@ -19,4 +19,4 @@ Licencia
 
 TODO: Agregar Licencia
 
-Esta Aplicacion permiter publicar estado , un link y obtener los estados de una persona de acuerdo a la documentacion facebook developer.
+Esta Aplicacion permitira hacer  frameworks web como Spring MVC Framework. 
