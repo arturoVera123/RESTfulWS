@@ -28,9 +28,14 @@ La splicacion consta de 10 paquetes los cuales estan dristribuidos de diferente 
 Guia :
 
 -Clonar el repositorio en nuestra computadora.
+
 -Verificar que contemos con eclipse Web.
+
 -Abrir nuestro proyecto desde la importacion que nos ofrece eclipse.
+
 -Iniciar nuestro servlet.
+
 -Installar maven en nuestro programa.
+
 -Correr nuestra aplicacion por medio de nuestro servlet.
 
